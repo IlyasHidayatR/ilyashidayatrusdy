@@ -11,8 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ilyashidayatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilyashidayatr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ilyas-hidayat-rusdy-a3baa91a7
-Highlights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas hidayat rusdy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ilyas-hidayat-rusdy-a3baa91a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas hidayat rusdy" height="30" width="40" /></a>
 <a href="https://kaggle.com/ilyashidayatrusdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ilyas hidayat rusdy" height="30" width="40" /></a>
 <a href="https://instagram.com/yashiru_kino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashiru_kino" height="30" width="40" /></a>
 </p>
